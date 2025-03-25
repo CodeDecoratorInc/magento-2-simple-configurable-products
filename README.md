@@ -1,0 +1,1 @@
+# magento-2-simple-configurable-products
